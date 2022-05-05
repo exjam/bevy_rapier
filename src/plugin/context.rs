@@ -1,4 +1,4 @@
-use bevy::core::Time;
+use bevy::prelude::Time;
 use std::collections::HashMap;
 use std::sync::RwLock;
 
